@@ -1,0 +1,35 @@
+3/13/2020 1:18:09 PM	0:00:16
+---------- Note ----------
+3/13/2020 3:01:31 PM
+1 disconnect 1:18:09 changed connections
+------ End of Note -------
+---------- Note ----------
+3/13/2020 8:09:28 PM
+router 2 not configured as ap but uses 192.168.50.0/.1 as gateway? Both routers use same scope which  in routing/switching unheard of. 2 routers in 1 network, same scope and addresses, am i dreaming?
+------ End of Note -------
+---------- Note ----------
+3/13/2020 8:10:05 PM
+MAYBE DEFAULT DOWN THE LINE use different scope.
+
+
+
+------ End of Note -------
+---------- Note ----------
+3/13/2020 8:11:38 PM
+up for 7 1/2 hours 1 disconnect for 15 seconds. 0 incidents since. 1 disconnect which I probably did manually, with 46-51 clients. 0 network crashed 0 resets.
+------ End of Note -------
+---------- Note ----------
+3/14/2020 12:27:07 PM
+still up at 42 clients, check for router 2 being serperate connection as whole. Literal different public ip
+------ End of Note -------
+---------------------------------------
+3/14/2020 1:11:03 PM	Log End
+Monitor Duration	24:33:11
+Failure Summary:
+	Count		1
+	Total Downtime	0:00:16
+	% Downtime	0.02
+	Minimum Length	0:00:16
+	Maximum Length	0:00:16
+	Average Length	0:00:16
+=======================================
